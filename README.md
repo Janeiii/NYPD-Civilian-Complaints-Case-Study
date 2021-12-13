@@ -1,1 +1,3 @@
 # NYPD-Civilian-Complaints-Case-Study
+
+In this case study, we will be studying 12,000 civilian complaints filed against New York City police officers, out main goal is to know whether there is a relationship between the gender of the police officer and their age to the allegation incident that they were involved in. The dataset contains 33358 observations including incident details, complainant details, and well as the police officer's information, and 30 variables including categorical and numerical values. We will be access the dataset using these values. We're going to be performing a hypothesis test for the research.
